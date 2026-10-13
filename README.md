@@ -16,10 +16,6 @@ I'm **Nguyen Phuong Duy**, a fullstack web developer based in **Ho Chi Minh City
 
 I build web applications with **React, Next.js, TypeScript, and Supabase**, working across responsive interfaces, authentication, database models, and API integrations. My interests also include mobile development with **React Native and Expo**.
 
-- **Experience:** Frontend Developer Intern at AYDEN Techco, building e-commerce interfaces with Next.js and React.
-- **Education:** Computer Networks at Van Hien University, 2022–2026.
-- **Focus:** Useful products, reusable components, and reliable buyer/user workflows.
-
 ## Tech stack
 
 ### Languages & foundations

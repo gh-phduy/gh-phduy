@@ -6,8 +6,6 @@
   <a href="https://gamingmarketplace.click"><b>Gaming Marketplace</b></a>
   &nbsp; &#8226; &nbsp;
   <a href="https://quizflash.click"><b>Quiz Flash</b></a>
-  &nbsp; &#8226; &nbsp;
-  <a href="mailto:evnnpd@gmail.com"><b>Get in touch</b></a>
 </p>
 
 ## About me
